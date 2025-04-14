@@ -56,7 +56,7 @@ This repository contains interactive visualizations that demonstrate key mathema
 
 ## 📸 Screenshots
 
-_Add your visual outputs here soon!_
+_Addding Visual Outputs soon!_
 
 ---
 
