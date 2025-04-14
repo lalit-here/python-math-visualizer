@@ -73,7 +73,7 @@ _Add your visual outputs here soon!_
 ## 🤝 Let's Connect
 
 - 📍 From: India
-- 🔗 [LinkedIn]()
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lalitkumarvaddina/)
 - 💼 Exploring field of ML and Deep Learning.
 
 
