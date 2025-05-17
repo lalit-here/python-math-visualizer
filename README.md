@@ -28,7 +28,7 @@ This repository contains interactive visualizations that demonstrate key mathema
 
 ## Features
 
-- 🖼Clean, educational visualizations of abstract math
+- Clean, educational visualizations of abstract math
 - Beginner-friendly code structure with comments
 - Organized file structure for reuse
 
