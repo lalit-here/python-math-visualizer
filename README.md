@@ -1,24 +1,24 @@
 
-# 🧠 Math Visualizer – Microsoft Explore AI Challenge (April 2025)
+# Math Visualizer – Microsoft Explore AI Challenge (April 2025)
 
 Welcome to **Math Visualizer**, a part of my AI journey under the Microsoft Explore AI Roadmap!  
 This project focuses on building strong foundations in Python, Linear Algebra, and Data Visualization through practical coding.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository contains interactive visualizations that demonstrate key mathematical concepts:
 
-- 📌 **Vector Operations** – 2D vector addition and scalar multiplication
-- 🧮 **Matrix Multiplication** – Step-by-step animation of matrix operations
-- 🎲 **Probability Distributions** – Coming Soon
+- **Vector Operations** – 2D vector addition and scalar multiplication
+- **Matrix Multiplication** – Step-by-step animation of matrix operations
+- **Probability Distributions** – Coming Soon
 
 > Built using Python libraries: **NumPy**, **Matplotlib**, and **Seaborn**
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Language | Libraries |
 |----------|-----------|
@@ -26,15 +26,15 @@ This repository contains interactive visualizations that demonstrate key mathema
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 Features
+## Features
 
-- 🖼️ Clean, educational visualizations of abstract math
-- 🎯 Beginner-friendly code structure with comments
-- 📁 Organized file structure for reuse
+- 🖼Clean, educational visualizations of abstract math
+- Beginner-friendly code structure with comments
+- Organized file structure for reuse
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 1. Clone this repo:
    ```bash
@@ -54,13 +54,13 @@ This repository contains interactive visualizations that demonstrate key mathema
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 _Addding Visual Outputs soon!_
 
 ---
 
-## 🗓️ Timeline & Progress
+## Timeline & Progress
 
 | Month   | Goal                           | Status  |
 |---------|--------------------------------|---------|
@@ -70,7 +70,7 @@ _Addding Visual Outputs soon!_
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - 📍 From: India
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lalitkumarvaddina/)
